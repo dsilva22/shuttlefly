@@ -1,3 +1,4 @@
 # shuttlefly
 touch file2.txt
-git pull
+git pull origin master
+
